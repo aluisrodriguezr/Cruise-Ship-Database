@@ -1,5 +1,3 @@
-# Introduction to Databases
-
 # Cruise Ship Database Project
 
 This project focuses on creating a comprehensive database for a cruise ship, managing information about crew members, passengers, various positions on the ship, excursions, and the interactions between crew members, passengers, and excursions. The project is divided into multiple parts, each contributing to the overall functionality.
